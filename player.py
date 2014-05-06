@@ -17,7 +17,8 @@ player = pyglet.media.Player()           ##player object has the option of queue
 
 random.shuffle(song_list)
 random.shuffle(song_list)
-random.shuffle(song_list)                ##making the playlist as random as possible
+random.shuffle(song_list)               
+random.shuffle(song_list)   ##making the playlist random
 
 for song in song_list:
 	
