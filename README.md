@@ -3,16 +3,16 @@ music-player
 
 A simple music player in python, includes what I think is a decent shuffle function.
 
-Version 1.0: (Currently supports only .mp3)
+Version 1.0: (Currently supports only .wav)
 
     -- Save your audio files in the working directory (doesn't matter if other files are present as well)
     -- Run the program
   
 Features:
 
-    -- Will read all the files and parse out the mp3s.
+    -- Will read all the files and parse out the wavs.
     
-    -- Will add all the mp3s to a list.
+    -- Will add all the wavss to a list.
     
     -- Will shuffle the list enough so there is an illusion of randomness.
     
